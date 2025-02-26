@@ -1,0 +1,13 @@
+Springboot 3
+Spring Data Jpa (HiberNate 6)
+MysqlDatabase
+InteljI
+Maven
+Postman Client
+React JS 18+
+Vite JS
+Bootstrap JS
+JavaScript
+NPM
+VS code
+Axios
