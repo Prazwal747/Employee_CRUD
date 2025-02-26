@@ -31,4 +31,24 @@ This is a **full-stack Employee Management System** built using **React** (front
 ---
 
 ## 📂 Project Structure
+ - EMS backend
+ - EMS frontend
+
+ ### STEPS:
+CREATE DATABASE employee_management;
+# update
+spring.datasource.url=jdbc:mysql://localhost:3306/employee_management
+spring.datasource.username=root
+spring.datasource.password=your_password
+
+### Running Spring Boot App
+cd ems-backend
+mvn spring-boot:run
+
+### Running React Front-end
+cd ../ems-frontend
+npm install
+
+
+
 
